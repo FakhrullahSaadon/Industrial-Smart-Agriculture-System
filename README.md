@@ -1,7 +1,7 @@
 # Industrial-Smart-Agriculture-System
 This is a prototype-based project that incorporates IoT technology for soil monitoring in agriculture industry. 
 The hardware components consist of ESP32 microcontroller as the backbone of the system as well as industrial-grade soil sensors for measuring the soil parameters such as soil moisture, EC, temperature, NPK etc.
-The IoT network setup integrates MQTT messaging protocol to facilitate data transfer from devices to IoT platforms where Datacake as used
+The IoT network setup integrates MQTT messaging protocol to facilitate data transfer between devices and IoT platforms where Datacake as used
 in this project displays the data on a dashboard that is available both on mobile and web applications.
 
 List of hardware components used in the system:
