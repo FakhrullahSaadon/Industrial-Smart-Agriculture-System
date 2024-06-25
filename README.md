@@ -2,7 +2,7 @@
 This is a prototype-based project that incorporates IoT technology for soil monitoring in agriculture industry. 
 The hardware components consist of ESP32 microcontroller as the backbone of the system as well as industrial-grade soil sensors for measuring the soil parameters such as soil moisture, EC, temperature, NPK etc.
 The IoT network setup integrates MQTT messaging protocol to facilitate data transfer between devices and IoT platforms where Datacake as used
-in this project displays the data on a dashboard real-time monitoring. The dashboard is available both on web and mobile applications.
+in this project displays the data on a dashboard for real-time monitoring. The dashboard is available both on web and mobile applications.
 
 List of hardware components used in the system:
 
