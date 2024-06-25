@@ -8,7 +8,7 @@ List of hardware components used in the system:
 
 1.  12V battery supply
 2.  ESP32-C6 FireBeetle 2 microcontroller
-3.  DC-DC buck converter
+3.  DC-DC buck converter (step down 12V to 5V)
 4.  Industrial-grade soil moisture, EC and temperature sensor (RS485 interface)
 5.  Industrial-grade NPK sensor (RS485 interface)
 6.  Weatherproof temperature and humidity sensor (RS485 interface)
