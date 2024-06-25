@@ -12,7 +12,7 @@ List of hardware components used in the system:
 4.  Industrial-grade soil moisture, EC and temperature sensor (RS485 interface)
 5.  Industrial-grade NPK sensor (RS485 interface)
 6.  Weatherproof temperature and humidity sensor (RS485 interface)
-7.  RS485 to UART TTL converter (MAX485)
+7.  RS485 to TTL converter (MAX485)
 8.  128x64 OLED display
 9.  n-MOSFET transistor
 
