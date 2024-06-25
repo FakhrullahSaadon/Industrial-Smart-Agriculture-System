@@ -25,3 +25,8 @@ IoT platforms:
 
 1.  HiveMQ MQTT client for data transfer
 2.  Datacake for data display on dashboards
+
+Future updates:
+- Detail explanation on the hardware connection
+- Actual coding flowchart
+- PCB design
