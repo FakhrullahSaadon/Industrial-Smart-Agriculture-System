@@ -27,6 +27,6 @@ IoT platforms:
 2.  Datacake for data display on dashboards : https://app.datacake.de/pd/ef621e8b-f27f-4776-9fb9-9be6ba70b714
 
 Future updates:
-- Detail explanation on the hardware selection and the connection of each pin involved
+- Detail explanation on the component selection and the connection of each pin involved
 - Actual coding flowchart
 - PCB design
