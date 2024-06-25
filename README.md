@@ -6,14 +6,14 @@ in this project to display the data on dashboards available both on mobile and w
 
 List of hardware components used in the system:
 
-1.  12V Battery Supply
+1.  12V battery supply
 2.  ESP32-C6 FireBeetle 2 microcontroller
-3.  DC-DC Buck Converter
+3.  DC-DC buck converter
 4.  Industrial-grade soil moisture, EC and temperature sensor (RS485 interface)
 5.  Industrial-grade NPK sensor (RS485 interface)
 6.  Weatherproof temperature and humidity sensor (RS485 interface)
-7.  RS485 to UART TTL Converter (MAX485)
-8.  128x64 OLED Display
+7.  RS485 to UART TTL converter (MAX485)
+8.  128x64 OLED display
 9.  n-MOSFET transistor
 
 Application programs:
